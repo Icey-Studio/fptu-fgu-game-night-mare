@@ -77,7 +77,7 @@ Bóng ma cô gái váy trắng đứng lặng lẽ trong ánh đèn sân, đôi 
 | :---: | :---: |
 | ![NightMare Screenshot](doc/screenshots/screenshot_04.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_07.jpg) |
 
-| Thực Thể AI Tru Săn Trong Bóng Tối | Hệ Thống Cầu Dao Tổng Tầng Hầm |
+| Thực Thể Ma Mị Tru Săn Trong Bóng Tối | Hệ Thống Cầu Dao Tổng Tầng Hầm |
 | :---: | :---: |
 | ![NightMare Screenshot](doc/screenshots/screenshot_05.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_06.jpg) |
 
